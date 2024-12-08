@@ -2,7 +2,7 @@ package org.example.people;
 
 import java.util.List;
 import java.util.ArrayList;
-
+/*
 public class Main {
     public static void printDepartment(List<Person> people){
         for(Person person : people){
@@ -15,4 +15,4 @@ public class Main {
         people.add( new Student("Olli", "Ida Albergintie Street 1 00400 Helsinki") );
         printDepartment(people);
     }
-}
+}*/

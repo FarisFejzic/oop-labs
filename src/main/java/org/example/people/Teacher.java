@@ -1,5 +1,5 @@
 package org.example.people;
-
+/*
 public class Teacher extends Person {
     private int salary;
     public Teacher(String name,String address,int salary){
@@ -29,3 +29,4 @@ public class Teacher extends Person {
     }
 }
 
+*/
